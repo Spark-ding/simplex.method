@@ -1,5 +1,5 @@
 #include "simplex.h"
-
+#include <float.h>//随便
 #include <stdio.h>
 #include <stdlib.h>
 
